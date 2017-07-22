@@ -1,3 +1,4 @@
+
 # Sample
 This application was generated using JHipster 4.5.5, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.5.5](https://jhipster.github.io/documentation-archive/v4.5.5).
 
@@ -109,3 +110,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Protractor]: https://angular.github.io/protractor/
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
+=======
+# JhipsterSample
+This is a sample Jhipster Application which includes Jenkins Integration.
+>>>>>>> 33b9ad85ccd9e0898f72cb95dfdc271f33ee9227
