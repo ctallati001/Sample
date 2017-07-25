@@ -89,7 +89,7 @@ task testReport(type: TestReport) {
     reportOn test
 }
 
-apply from: 'gradle/yeoman.gradle'
+//apply from: 'gradle/yeoman.gradle'
 //apply from: 'gradle/sonar.gradle'
 apply from: 'gradle/liquibase.gradle'
 apply from: 'gradle/mapstruct.gradle'
